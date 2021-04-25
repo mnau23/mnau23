@@ -12,11 +12,16 @@ I'm Emanuele, a university student enrolled in the Master's Degree Course of Com
 
 ---
 ### :speech_balloon: How to reach me
-:email: [e.perico@protonmail.ch](mailto:e.perico@protonmail.ch)<br>
+:email: [Send me an email](https://formsubmit.co/el/voteva)<br>
 :telephone_receiver: Nope! :wink:<br>
 :round_pushpin: Bergamo, Italy<br>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/emanueleperico)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=Connect&logo=LinkedIn&style=social)](https://www.linkedin.com/in/emanueleperico)
+
+:earth_africa: [Visit my website](https://mnau23.github.io)<br>
+Or scan below:<br>
+<p><img src="https://github.com/mnau23/mnau23/blob/main/qrcode.png" alt="qr_image"/></p>
+
 
 <!--
 **mnau23/mnau23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
