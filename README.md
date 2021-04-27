@@ -4,11 +4,7 @@
 
 I'm Emanuele, a university student enrolled in the Master's Degree Course of Computer Engineering at the University of Bergamo.
 
----
-### :chart_with_upwards_trend: Stats
-<a href="https://github.com/mnau23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnau23&layout=compact&title_color=444444"/>
-</a>
+
 
 ---
 ### :speech_balloon: How to reach me
