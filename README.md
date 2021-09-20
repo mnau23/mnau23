@@ -4,8 +4,8 @@
 
 I'm Emanuele! :wave: <br/>
 MS Computer Engineering alumnus at University of Bergamo.
-- BS in **Computer Engineering** at [UniBg](https://en.unibg.it/)
-- Abroad studies at [TalTech](https://taltech.ee/en)
+- BS in **Computer Engineering** at [UniBg](https://en.unibg.it/) :it:
+- Abroad studies at [TalTech](https://taltech.ee/en) :estonia: and [SDU](https://www.sdu.dk/en) :denmark:
 
 ### :speech_balloon: Get in touch
 - Visit my [website](https://mnau23.github.io) :earth_africa:
@@ -20,7 +20,7 @@ MS Computer Engineering alumnus at University of Bergamo.
 <!-- ### :chart_with_upwards_trend: Stats -->
 
 <a href="https://github.com/mnau23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnau23&langs_count=6&layout=compact&theme=graywhite&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnau23&langs_count=10&layout=compact&theme=graywhite&hide_border=true" />
 </a>
 <!-- <a href="https://github.com/mnau23">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnau23&count_private=true&include_all_commits=true&theme=graywhite&hide_border=true" />
