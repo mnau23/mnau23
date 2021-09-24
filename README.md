@@ -8,7 +8,7 @@ MS Computer Engineering alumnus at University of Bergamo.
 - Abroad studies at [TalTech](https://taltech.ee/en) :estonia: and [SDU](https://www.sdu.dk/en) :denmark:
 
 ### :speech_balloon: Get in touch
-- Visit my [website](https://mnau23.github.io) :earth_africa:
+- Visit my [website](https://emanuele.codes) :earth_africa:
 - Send me an [email](https://formsubmit.co/el/voteva) :email:
 - Connect on [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/emanueleperico)
 
