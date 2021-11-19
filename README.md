@@ -1,6 +1,6 @@
 <!--# Hey there! :wave: I'm Emanuele.-->
 
-<p align="center"><img width="30%" src="https://github.com/mnau23/mnau23/blob/main/lang.gif" alt="lang_image"/></p>
+<p align="center"><img width="30%" src="https://github.com/mnau23/mnau23/blob/main/assets/lang.gif" alt="Hello"/></p>
 
 I'm Emanuele! :wave: <br/>
 MS Computer Engineering alumnus at University of Bergamo.
@@ -8,16 +8,18 @@ MS Computer Engineering alumnus at University of Bergamo.
 - Abroad studies at [TalTech](https://taltech.ee/en) :estonia: and [SDU](https://www.sdu.dk/en) :denmark:
 
 ### :speech_balloon: Get in touch
-- Visit my [website](https://emanuele.codes) :earth_africa:
-- Send me an [email](https://formsubmit.co/el/voteva) :email:
-- Connect on [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/emanueleperico)
 
-<!-- Or scan below:<br>
-<p><img src="https://github.com/mnau23/mnau23/blob/main/qrcode.png" alt="qr_image"/></p> -->
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+<br/>
+
+<!-- Or scan below:<br/>
+<p><img src="https://github.com/mnau23/mnau23/blob/main/assets/qrcode.png" alt="QR_website"/></p> -->
 
 ### :books: Looking for my resume? E-mail me!
 
-<!-- ### :chart_with_upwards_trend: Stats -->
+### :chart_with_upwards_trend: Stats
 
 <a href="https://github.com/mnau23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnau23&langs_count=10&layout=compact&theme=graywhite&hide_border=true" />
@@ -25,6 +27,17 @@ MS Computer Engineering alumnus at University of Bergamo.
 <!-- <a href="https://github.com/mnau23">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnau23&count_private=true&include_all_commits=true&theme=graywhite&hide_border=true" />
 </a> -->
+
+---
+[![Visits](https://komarev.com/ghpvc/?username=mnau23&label=profile%20visits&color=2088FF&style=flat-square)][github]<br/>
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Femanuele.codes&label=emanuele.codes&style=flat-square)][website]
+
+
+[email]: https://formsubmit.co/el/voteva
+[github]: https://github.com/mnau23
+[linkedin]: https://www.linkedin.com/in/emanueleperico
+[website]: https://emanuele.codes/
+
 
 <!--
 **mnau23/mnau23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
