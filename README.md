@@ -3,8 +3,7 @@
 <p align="center"><img width="30%" src="https://github.com/mnau23/mnau23/blob/main/assets/lang.gif" alt="Hello"/></p>
 
 I'm Emanuele! :wave: <br/>
-MS Computer Engineering alumnus at University of Bergamo.
-- BS in **Computer Engineering** at [UniBg](https://en.unibg.it/) :it:
+- M.Sc. in **Computer Engineering** at [UniBg](https://en.unibg.it/) :it:
 - Abroad studies at [TalTech](https://taltech.ee/en) :estonia: and [SDU](https://www.sdu.dk/en) :denmark:
 
 ### :speech_balloon: Get in touch
