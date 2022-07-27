@@ -8,9 +8,9 @@ I'm Emanuele! :wave: <br/>
 
 ### :speech_balloon: Get in touch
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][email]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svg/globe_dark.svg"><img align="left" alt="Website" width="23px" src="./assets/svg/globe_light.svg"></picture>][website]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svg/gmail_dark.svg"><img align="left" alt="Email" width="25px" src="./assets/svg/gmail_light.svg"></picture>][email]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svg/linkedin_dark.svg"><img align="left" alt="LinkedIn" width="22px" src="./assets/svg/linkedin_light.svg"></picture>][linkedin]
 <br/>
 
 <!-- Or scan below:<br/>
