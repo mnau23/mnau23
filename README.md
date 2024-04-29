@@ -24,7 +24,7 @@ I'm Emanuele! :wave: <br/>
 
 ### :chart_with_upwards_trend: Stats
 
-![gh-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnau23&langs_count=10&layout=compact&theme=graywhite&hide_border=true)
+![gh-langs](https://mnau23-stats.vercel.app/api/top-langs/?username=mnau23&layout=compact&theme=graywhite&hide_border=true&langs_count=10&count_private=true)
 
 <!-- <a href="https://github.com/mnau23">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnau23&count_private=true&include_all_commits=true&theme=graywhite&hide_border=true" />
