@@ -1,0 +1,48 @@
+name: Update cards
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"  # runs every Monday at 07:00 AM UTC (08:00 AM CET / 09:00 AM CEST)
+  workflow_dispatch:
+
+concurrency:
+  group: update-cards
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  generate-cards:
+    name: Generate cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    permissions:
+      contents: write  # required for creating a commit to a branch
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=graywhite&hide_border=true&langs_count=10&count_private=true
+          path: assets/cards/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git auth
+        run: |
+          git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$REPOSITORY
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+
+      - name: Commit to current branch
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
+        with:
+          commit_message: "update cards"
+          file_pattern: "assets/cards/*.svg"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
