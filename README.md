@@ -1,5 +1,3 @@
-<!--# Hey there! :wave: I'm Emanuele.-->
-
 <p align="center"><img width="30%" src="https://github.com/mnau23/mnau23/blob/main/assets/hello.gif" alt="Hello"/></p>
 
 I'm Emanuele! :wave: <br/>
@@ -26,10 +24,6 @@ I'm Emanuele! :wave: <br/>
 
 ![gh-langs](./assets/cards/top-langs.svg)
 
-<!-- <a href="https://github.com/mnau23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnau23&count_private=true&include_all_commits=true&theme=graywhite&hide_border=true" />
-</a> -->
-
 ---
 
 [![gh-views](https://komarev.com/ghpvc/?username=mnau23&label=profile%20visits&color=2088FF&style=flat-square)][github]<br/>
@@ -39,16 +33,3 @@ I'm Emanuele! :wave: <br/>
 [github]: https://github.com/mnau23
 [linkedin]: https://www.linkedin.com/in/emanueleperico
 [website]: https://emanuele.codes/
-
-<!--
-**mnau23/mnau23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
