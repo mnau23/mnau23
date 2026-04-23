@@ -1,6 +1,6 @@
 <!--# Hey there! :wave: I'm Emanuele.-->
 
-<p align="center"><img width="30%" src="https://github.com/mnau23/mnau23/blob/main/assets/lang.gif" alt="Hello"/></p>
+<p align="center"><img width="30%" src="https://github.com/mnau23/mnau23/blob/main/assets/hello.gif" alt="Hello"/></p>
 
 I'm Emanuele! :wave: <br/>
 
@@ -9,11 +9,11 @@ I'm Emanuele! :wave: <br/>
 
 ### :speech_balloon: Get in touch
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svg/globe_dark.svg"><img align="left" alt="Website" width="23px" src="./assets/svg/globe_light.svg"></picture>][website]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/globe_dark.svg"><img align="left" alt="Website" width="23px" src="./assets/icons/globe_light.svg"></picture>][website]
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svg/gmail_dark.svg"><img align="left" alt="Email" width="25px" src="./assets/svg/gmail_light.svg"></picture>][email]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gmail_dark.svg"><img align="left" alt="Email" width="25px" src="./assets/icons/gmail_light.svg"></picture>][email]
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svg/linkedin_dark.svg"><img align="left" alt="LinkedIn" width="22px" src="./assets/svg/linkedin_light.svg"></picture>][linkedin]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linkedin_dark.svg"><img align="left" alt="LinkedIn" width="22px" src="./assets/icons/linkedin_light.svg"></picture>][linkedin]
 
 <br/>
 
