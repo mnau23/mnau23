@@ -26,7 +26,8 @@ I'm Emanuele! :wave: <br/>
 
 ---
 
-[![gh-views](https://komarev.com/ghpvc/?username=mnau23&label=profile%20visits&color=2088FF&style=flat-square)][github]<br/>
+<!--[![gh-views](https://komarev.com/ghpvc/?username=mnau23&label=profile%20visits&color=2088FF&style=flat-square)][github]<br/>-->
+
 [![website](https://img.shields.io/website?url=https%3A%2F%2Femanuele.codes&label=emanuele.codes&style=flat-square)][website]
 
 [email]: https://formsubmit.co/el/voteva
